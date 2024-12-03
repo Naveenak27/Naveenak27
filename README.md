@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=435&lines=Hey+there!+👋+I'm+Naveen;Full+Stack+Developer+from+India;Tech+Enthusiast+%7C+Code+Ninja+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=435&lines=Hey+there!+👋+I'm+Naveen;Full+Stack+Developer+from+chennai!!!;Developer+with+a+Vision!!! ;Code+Crafting+with+Purpose+🚀" />
 </h1>
 
 <div align="center">
@@ -20,12 +20,12 @@
 
 ## 🌟 About Me
 
-I'm a passionate full-stack developer who loves turning complex problems into simple, beautiful solutions. With a diverse tech stack and an insatiable curiosity, I'm always pushing the boundaries of what's possible.
+I’m a passionate full-stack developer with over a year of experience crafting scalable web and mobile solutions. I specialize in building efficient, user-friendly applications using modern tools like React, Node.js, and MySQL. With a strong problem-solving mindset, I thrive on turning challenges into opportunities for innovation. Currently, I’m making an impact at a Chennai-based startup while also exploring new technologies and freelancing projects.
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,typescript,python,html,css,mongodb,mysql,nextjs,redux,aws,firebase,git,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,python,html,css,mysql,redux,firebase,git,postman" alt="Tech Stack" />
 </p>
 
 ## 📊 My GitHub Journey
