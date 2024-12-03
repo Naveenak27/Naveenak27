@@ -65,7 +65,7 @@ I'm a passionate full-stack developer who loves turning complex problems into si
   <a href="https://twitter.com/naveenkarnan5" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/naveen_ak" target="_blank">
+  <a href="https://stackoverflow.com/users/19251070/naveen-ak" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </p>
