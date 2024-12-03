@@ -59,7 +59,7 @@ I'm a passionate full-stack developer who loves turning complex problems into si
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naveen-ak" target="_blank">
+  <a href="https://www.linkedin.com/in/naveen-karnan-4987811a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/naveenkarnan5" target="_blank">
