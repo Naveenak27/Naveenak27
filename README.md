@@ -25,7 +25,7 @@ I’m a passionate full-stack developer with over a year of experience crafting 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,python,html,css,mysql,redux,firebase,git,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,python,html,css,mysql,redux,firebase,github,postman" alt="Tech Stack" />
 </p>
 
 ## 📊 My GitHub Journey
